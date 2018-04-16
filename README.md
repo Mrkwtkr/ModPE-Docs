@@ -1,4 +1,4 @@
-ModPE-Docs
+ModPE-文档
 ==========
 
-Everything is on the [Wiki](../../wiki/)! Go to the [Wiki](../../wiki/)!
+所有内容在[Wiki](../../wiki/)中！请前往[Wiki](../../wiki/)页面查看！
